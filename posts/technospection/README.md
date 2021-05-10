@@ -1,1 +1,0 @@
-This is my technical area: things I've learned, problems I've solved. Tech things I ❤️ and tech things that 💔 me. 

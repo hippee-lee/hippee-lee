@@ -1,1 +1,0 @@
-This is my personal area: thoughts, rambling and important things I want to remember.
