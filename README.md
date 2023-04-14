@@ -16,5 +16,5 @@
 - 💬 Ask me about UI/UX/DX, I have thoughts 🧐
 - 🐦 Reach me: [@hippeelee](https://twitter.com/hippeelee) 
 - 🧬 Fun fact: [Punctuated equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium) describes evolutionary development that is marked by isolated episodes of rapid change between long periods of little or no change
-- xClarity [Clarity Design System](https://github.com/vmware-clarity)
+- Currently applying UI/UX and Full Stack development in the security space
 
